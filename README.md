@@ -1,1 +1,3 @@
-#  Updating《Learning Python》
+#  《Learning Python》
+2 至 7 章已完成
+第 8 章更新中...
